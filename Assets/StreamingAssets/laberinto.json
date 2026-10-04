@@ -1,0 +1,15 @@
+{
+  "niveles": [
+    {"nombre": "Amplio",   "columnas":  7, "filas":  5, "anchoPasillo": 0.420, "grosorMuro": 0.070, "radioBola": 0.130, "semilla": 3088},
+    {"nombre": "Normal",   "columnas":  9, "filas":  6, "anchoPasillo": 0.340, "grosorMuro": 0.060, "radioBola": 0.110, "semilla": 1024},
+    {"nombre": "Estrecho", "columnas": 11, "filas":  8, "anchoPasillo": 0.270, "grosorMuro": 0.050, "radioBola": 0.085, "semilla": 1016},
+    {"nombre": "Fino",     "columnas": 12, "filas":  9, "anchoPasillo": 0.260, "grosorMuro": 0.045, "radioBola": 0.085, "semilla": 1052},
+    {"nombre": "Extremo",  "columnas": 13, "filas": 10, "anchoPasillo": 0.250, "grosorMuro": 0.045, "radioBola": 0.085, "semilla": 1060}
+  ],
+  "rigidezMuro": 0.20,
+  "friccionMuro": 0.12,
+  "rigidezRanura": 0.22,
+  "profundidadMuro": 0.60,
+  "margenCamara": 1.12,
+  "limiteTiempoS": 0
+}

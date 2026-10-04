@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c72ec66302d44a345a884c649d01cb50
+  - enabled: 1
+    path: Assets/Scenes/Ambiente1_Manipulacion.unity
+    guid: b723e043e1b701d47be9b87a58370ab5
+  - enabled: 1
+    path: Assets/Scenes/Ambiente2_Laberinto.unity
+    guid: b47bf73b18d07f3408a3fe44f34379fe
+  - enabled: 1
+    path: Assets/Scenes/Ambiente3_Fuerza.unity
+    guid: dae5387f12d32cb4db2841bd2396d7b2
+  - enabled: 1
+    path: Assets/Scenes/Ambiente4_Hanoi.unity
+    guid: 0c6cabc520728cc4b945da56cfddf121
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

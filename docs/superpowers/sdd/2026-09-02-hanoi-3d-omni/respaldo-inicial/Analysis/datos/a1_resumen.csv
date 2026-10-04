@@ -1,0 +1,5 @@
+fecha,guia,tiempo_s,piezas,agarres,caidas,recorrido_u,impulso_ns,fuerza_pico_n,err_medio_u,detalle_por_pieza
+2026-08-25 16:04:41,sin_guia,65.94080,4,6,2,51.15870,41.67338,2.98219,0.11242,"Pieza ligera:0.49N/2ag/1ca/9.1s/0.199u | Pieza media:1.18N/1ag/0ca/2.6s/0.098u | Pieza pesada:1.96N/1ag/0ca/3.6s/0.038u | Pieza muy pesada:2.75N/2ag/1ca/5.0s/0.115u"
+2026-08-25 16:18:43,con_guia,19.01818,4,5,1,17.81174,16.43012,2.44897,0.10987,"Pieza ligera:0.49N/1ag/0ca/1.2s/0.106u | Pieza media:1.18N/2ag/1ca/2.6s/0.068u | Pieza pesada:1.96N/1ag/0ca/3.3s/0.099u | Pieza muy pesada:2.75N/1ag/0ca/3.3s/0.166u"
+2026-08-25 16:19:06,con_guia,17.44351,4,6,2,29.47599,15.15825,3.00000,0.12170,"Pieza ligera:0.49N/1ag/0ca/1.4s/0.118u | Pieza media:1.18N/1ag/0ca/1.2s/0.095u | Pieza pesada:1.96N/2ag/1ca/2.2s/0.150u | Pieza muy pesada:2.75N/2ag/1ca/3.7s/0.124u"
+2026-08-28 14:41:44,sin_guia,23.89811,4,4,0,21.03228,20.44447,2.99428,0.07121,"Pieza ligera:0.49N/1ag/0ca/3.4s/0.060u | Pieza media:1.18N/1ag/0ca/3.2s/0.122u | Pieza pesada:1.96N/1ag/0ca/3.3s/0.066u | Pieza muy pesada:2.75N/1ag/0ca/3.4s/0.037u"

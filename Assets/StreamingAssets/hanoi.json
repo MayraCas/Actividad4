@@ -1,0 +1,18 @@
+{
+  "niveles": [
+    {"nombre": "Facil",   "discos": 3, "guiaPermitida": true},
+    {"nombre": "Medio",   "discos": 4, "guiaPermitida": true},
+    {"nombre": "Dificil", "discos": 5, "guiaPermitida": false},
+    {"nombre": "Experto", "discos": 6, "guiaPermitida": false}
+  ],
+  "masaMin": 0.06,
+  "masaMax": 0.28,
+  "amortiguamientoPorKg": 0.008,
+  "retardoPorKg": 0.35,
+  "rigidezDisco": 0.20,
+  "friccionDisco": 0.25,
+  "rigidezPoste": 0.18,
+  "bloqueoHaptico": true,
+  "rigidezRechazo": 0.22,
+  "limiteTiempoS": 0
+}
